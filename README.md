@@ -1,1 +1,1 @@
-# python-deep-learning-pytorch
+# Spm lab_python-deep-learning-pytorch
